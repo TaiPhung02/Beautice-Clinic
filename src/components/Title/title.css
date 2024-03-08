@@ -1,0 +1,33 @@
+.title {
+    margin-bottom: 82px;
+}
+
+.section-title {
+    color: var(--color-title);
+    text-align: center;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 125%; /* 20px */
+}
+
+.section-heading {
+    color: var(--color-headings);
+    text-align: center;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 125%; /* 45px */
+    margin: 0 auto;
+}
+
+.section-desc {
+    color: var(--color-desc);
+    text-align: center;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 1.6px;
+    margin: 0 auto;
+}
